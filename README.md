@@ -3,6 +3,7 @@
 liblinphone
 ===========
 
+
 This is liblinphone, a free (GPL) video voip library based on the SIP protocol.
 This library is used by Linphone. It's source code is available at *linphone-desktop[1]*.
 
